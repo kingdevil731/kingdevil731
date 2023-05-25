@@ -3,7 +3,7 @@
 <p align='center'>
 <!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kingdevil731&left_color=green&right_color=red) -->
-[![visitors](https://hits.dwyl.com/kingdevil731/kingdevil731.svg?style=flat-square)](http://hits.dwyl.com/kingdevil731/kingdevil731)
+![visitors](https://hits.dwyl.com/kingdevil731/kingdevil731.svg?style=flat-square)](http://hits.dwyl.com/kingdevil731/kingdevil731)
 
 </p>
 <div size='20px'> Hi! My name is Ruben. Thank You for taking the time to view my GitHub Profile :smile: 
