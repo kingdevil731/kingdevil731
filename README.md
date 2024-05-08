@@ -13,9 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Portofolio, & An Ecommerce App & much more
-
-- 🌱 I’m currently learning more and more Full Stack Development with Flavio 
+- 🔭 I’m currently working on updating my Portofolio, & an Ecommerce App & much more
 
 - 👯 I’m looking to collaborate on Projects 
 
