@@ -1,52 +1,84 @@
+# Ruben Folhento
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-<!-- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kingdevil731&left_color=green&right_color=red) -->
+**Senior Full-Stack Engineer**  
+Building scalable SaaS products across web, mobile, and backend systems  
 
-</p>
-<div size='20px'> Hi! My name is Ruben. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+---
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+## 👋 About Me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+Full-Stack Engineer with 7+ years of experience building production software used in real-world environments.
 
+I work across the full stack, including:
+- Frontend (React, Next.js)
+- Mobile (React Native)
+- Backend (Node.js, Prisma, PostgreSQL)
+- Infrastructure (Docker, background jobs with BullMQ)
 
-- 🔭 I’m currently working on updating my Portofolio, & an Ecommerce App & much more
+Currently focused on **SaaS and fintech systems**, including compliance-related backend services and product-driven platforms.
 
-- 👯 I’m looking to collaborate on Projects 
+---
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source, React.js, React Native, Node.js, TypeScript 
+## 🚀 Selected Work
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/kingdevil731?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
+### 🧱 Operations Management Platform
+Full-featured internal system designed to manage business operations, logistics, and workflows, built for real client usage with a focus on reliability and scalability.
 
+### 🎟️ Event Management & Ticketing Platform
+End-to-end SaaS platform for event creation, ticket sales, and attendee management, including payment flows and check-in systems.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/ruben-folhento-ab8a071b5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/ruben-forner'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://github.com/kingdevil731'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/kingdevil731'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+### 📦 Inventory & Stock Management System
+Product-oriented platform supporting stock tracking, product management, and operational workflows across business entities.
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+### 🎮 Real-Time Multiplayer Word Game (Nome Terra)
+Real-time multiplayer game built with Socket.IO, featuring synchronized rounds, scoring, and event-driven architecture.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kingdevil731&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdevil731&theme=dracula" />
-</a>
+---
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+## 🧠 What I Focus On
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+- Building and maintaining **production-grade SaaS systems**
+- Designing **clean and scalable architectures**
+- Delivering features across **frontend, backend, and mobile**
+- Improving existing systems through **refactoring and performance work**
+- Supporting real-world systems and solving operational issues
 
+---
+
+## 🛠️ Core Stack
+
+**Frontend**
+- React
+- Next.js
+- TypeScript
+
+**Mobile**
+- React Native
+
+**Backend**
+- Node.js
+- Prisma
+- REST APIs
+- Microservices
+
+**Database**
+- PostgreSQL
+
+**Infrastructure**
+- Docker
+- BullMQ
+
+---
+
+## 🌍 Open To
+
+Remote opportunities (EU)  
+SaaS / Fintech / Product companies  
+
+---
+
+## 🔗 Links
+
+- Portfolio → https://kingdevil731.dev  
+- LinkedIn → https://www.linkedin.com/in/ruben-folhento  
+- GitHub → https://github.com/kingdevil731
