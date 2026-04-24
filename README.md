@@ -1,84 +1,139 @@
 # Ruben Folhento
 
-**Senior Full-Stack Engineer**  
-Building scalable SaaS products across web, mobile, and backend systems  
+Senior Full-Stack Product Engineer  
+Building SaaS, realtime and distributed systems.
 
 ---
 
-## 👋 About Me
+## What I Build
 
-Full-Stack Engineer with 7+ years of experience building production software used in real-world environments.
+I design and ship systems across:
 
-I work across the full stack, including:
-- Frontend (React, Next.js)
-- Mobile (React Native)
-- Backend (Node.js, Prisma, PostgreSQL)
-- Infrastructure (Docker, background jobs with BullMQ)
+- Realtime multiplayer products  
+- Offline-first distributed platforms  
+- Multi-tenant business software  
+- Compliance-oriented backend services  
 
-Currently focused on **SaaS and fintech systems**, including compliance-related backend services and product-driven platforms.
+Current focus:
 
----
-
-## 🚀 Selected Work
-
-### 🧱 Operations Management Platform
-Full-featured internal system designed to manage business operations, logistics, and workflows, built for real client usage with a focus on reliability and scalability.
-
-### 🎟️ Event Management & Ticketing Platform
-End-to-end SaaS platform for event creation, ticket sales, and attendee management, including payment flows and check-in systems.
-
-### 📦 Inventory & Stock Management System
-Product-oriented platform supporting stock tracking, product management, and operational workflows across business entities.
-
-### 🎮 Real-Time Multiplayer Word Game (Nome Terra)
-Real-time multiplayer game built with Socket.IO, featuring synchronized rounds, scoring, and event-driven architecture.
+TypeScript • React • Node.js • Systems Design
 
 ---
 
-## 🧠 What I Focus On
+## Featured Architecture Showcases
 
-- Building and maintaining **production-grade SaaS systems**
-- Designing **clean and scalable architectures**
-- Delivering features across **frontend, backend, and mobile**
-- Improving existing systems through **refactoring and performance work**
-- Supporting real-world systems and solving operational issues
+### 🎮 Nome Terra Architecture
+Realtime multiplayer game architecture using Socket.IO and event-driven state.
+
+Public architecture showcase repo:
+https://github.com/kingdevil731/nome-terra-architecture
 
 ---
 
-## 🛠️ Core Stack
+### 🎟 Events Platform Architecture
+Offline-first ticketing, replay queues and reconciliation systems.
 
-**Frontend**
+Public architecture showcase repo:
+https://github.com/kingdevil731/events-platform-architecture
+
+---
+
+### 📦 Inventory ERP Architecture
+Multi-tenant domain modeling and operational systems.
+
+(Planned public showcase repository)
+
+---
+
+## Selected Professional Experience
+
+## 🧾 Quipu
+Full-stack product engineering across:
+
+- SaaS frontend product development
+- React Native mobile applications
+- Node.js microservices
+- Compliance-oriented backend systems
+- Production reliability and systems ownership
+
+---
+
+## Engineering Interests
+
+Particularly interested in:
+
+- Product engineering
+- Realtime systems
+- Distributed workflows
+- Event-driven architectures
+- Systems design
+
+---
+
+## What I Focus On
+
+- Building production-grade systems
+- Designing maintainable architectures
+- Full-stack ownership from feature delivery to production support
+- Solving operational and distributed systems problems
+- Shipping practical software with product impact
+
+---
+
+## Core Stack
+
+### Frontend
 - React
 - Next.js
 - TypeScript
 
-**Mobile**
+### Mobile
 - React Native
 
-**Backend**
+### Backend
 - Node.js
 - Prisma
-- REST APIs
+- PostgreSQL
 - Microservices
 
-**Database**
-- PostgreSQL
-
-**Infrastructure**
+### Systems
+- Socket.IO
 - Docker
 - BullMQ
+- Redis
 
 ---
 
-## 🌍 Open To
+## Current Themes I Enjoy Exploring
 
-Remote opportunities (EU)  
-SaaS / Fintech / Product companies  
+- Multiplayer state synchronization
+- Offline-first sync and reconciliation
+- Domain modeling
+- Distributed systems patterns
+- Product-oriented engineering
 
 ---
 
-## 🔗 Links
+## Open To
 
-- Portfolio → https://kingdevil731.dev  
-- LinkedIn → https://www.linkedin.com/in/ruben-folhento  
-- GitHub → https://github.com/kingdevil731
+Remote opportunities (EU / Global)  
+Product Engineering roles  
+Senior Full-Stack roles  
+Founding Engineer opportunities
+
+---
+
+## Links
+
+Portfolio  
+https://kingdevil731.dev
+
+LinkedIn  
+https://www.linkedin.com/in/ruben-folhento
+
+GitHub  
+https://github.com/kingdevil731
+
+---
+
+Production SaaS • Realtime Systems • Distributed Sync • Full-Stack Ownership
