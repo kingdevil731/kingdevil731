@@ -1,18 +1,19 @@
 # Ruben Folhento
 
-Senior Full-Stack Product Engineer  
-Building SaaS, realtime and distributed systems.
+Senior Product Engineer  
+Building scalable SaaS, backend and product systems.
 
 ---
 
 ## What I Build
 
-I design and ship systems across:
+I design and ship software across:
 
-- Realtime multiplayer products  
-- Offline-first distributed platforms  
-- Multi-tenant business software  
-- Compliance-oriented backend services  
+- Realtime multiplayer products
+- Offline-first platforms
+- Multi-tenant business software
+- Backend services and operational tooling
+- Product-focused engineering systems
 
 Current focus:
 
@@ -22,38 +23,43 @@ TypeScript • React • Node.js • Systems Design
 
 ## Featured Architecture Showcases
 
-### 🎮 Nome Terra Architecture
-Realtime multiplayer game architecture using Socket.IO and event-driven state.
+Public architecture-focused repositories documenting engineering decisions,
+distributed workflows and product system design.
 
-Public architecture showcase repo:
+### 🎮 Nome Terra Architecture
+Realtime multiplayer architecture using Socket.IO and event-driven state synchronization.
+
+Repository:
 https://github.com/kingdevil731/nome-terra-architecture
 
 ---
 
 ### 🎟 Events Platform Architecture
-Offline-first ticketing, replay queues and reconciliation systems.
+Offline-first ticketing, replay queues and reconciliation workflows.
 
-Public architecture showcase repo:
+Repository:
 https://github.com/kingdevil731/events-platform-architecture
 
 ---
 
 ### 📦 Inventory ERP Architecture
-Multi-tenant domain modeling and operational systems.
+Multi-tenant ERP architecture, operational workflows and domain modeling.
 
-(Planned public showcase repository)
+Repository:
+https://github.com/kingdevil731/inventory-erp-architecture
 
 ---
 
 ## Selected Professional Experience
 
-## 🧾 Quipu
+### 🧾 Quipu
+
 Full-stack product engineering across:
 
-- SaaS frontend product development
+- SaaS frontend development
 - React Native mobile applications
 - Node.js microservices
-- Compliance-oriented backend systems
+- Compliance-oriented backend workflows
 - Production reliability and systems ownership
 
 ---
@@ -63,19 +69,19 @@ Full-stack product engineering across:
 Particularly interested in:
 
 - Product engineering
-- Realtime systems
 - Distributed workflows
-- Event-driven architectures
-- Systems design
+- Event-driven architecture
+- Realtime interaction systems
+- Operational software design
 
 ---
 
 ## What I Focus On
 
-- Building production-grade systems
+- Building production-grade software
 - Designing maintainable architectures
-- Full-stack ownership from feature delivery to production support
-- Solving operational and distributed systems problems
+- Full-stack ownership from implementation to production support
+- Improving reliability and operational workflows
 - Shipping practical software with product impact
 
 ---
@@ -94,32 +100,24 @@ Particularly interested in:
 - Node.js
 - Prisma
 - PostgreSQL
+- REST APIs
 - Microservices
 
 ### Systems
-- Socket.IO
 - Docker
-- BullMQ
 - Redis
+- BullMQ
+- Socket.IO
 
 ---
 
 ## Current Themes I Enjoy Exploring
 
-- Multiplayer state synchronization
-- Offline-first sync and reconciliation
+- Multiplayer synchronization
+- Offline-first reconciliation patterns
 - Domain modeling
-- Distributed systems patterns
-- Product-oriented engineering
-
----
-
-## Open To
-
-Remote opportunities (EU / Global)  
-Product Engineering roles  
-Senior Full-Stack roles  
-Founding Engineer opportunities
+- Product infrastructure
+- Distributed coordination workflows
 
 ---
 
@@ -136,4 +134,4 @@ https://github.com/kingdevil731
 
 ---
 
-Production SaaS • Realtime Systems • Distributed Sync • Full-Stack Ownership
+Production SaaS • Product Engineering • Distributed Workflows • Full-Stack Ownership
