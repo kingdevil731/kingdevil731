@@ -1,137 +1,50 @@
 # Ruben Folhento
 
-Senior Product Engineer  
-Building scalable SaaS, backend and product systems.
+Full-stack engineer, 7+ years, TypeScript across the whole stack.
+
+At [Quipu](https://getquipu.com) I own a Node.js compliance microservice end to end — Prisma, PostgreSQL, BullMQ, Docker — alongside React and React Native work on a live SaaS platform.
+
+Outside that I design and build complete systems, and publish the architecture rather than the code. The repositories below document the decisions, the trade-offs, and what each system does *not* do.
+
+📍 Maputo, Mozambique (UTC+2, full overlap with the European working day) · 🇵🇹 Portuguese citizen, EU work rights · relocating to Europe in 2027
 
 ---
 
-## What I Build
+## Architecture showcases
 
-I design and ship software across:
+### [Events Platform](https://github.com/kingdevil731/events-platform-architecture)
+Turborepo monorepo with six deployable surfaces — an Express/Prisma API, a React Native (Expo) app, three Next.js web surfaces, and a universal-link bridge — sharing one Zod contract package.
 
-- Realtime multiplayer products
-- Offline-first platforms
-- Multi-tenant business software
-- Backend services and operational tooling
-- Product-focused engineering systems
+The interesting decision is a build-time product-mode system that ships a discovery-only V1 while keeping the entire transactional V2 path compiled and flagged off, so the transition is a config change rather than a rewrite. Also documents an offline venue check-in design with a six-state sync queue that routes every server disagreement to a human supervisor instead of resolving it silently.
 
-Current focus:
+`TypeScript` `Next.js` `React Native` `Express` `Prisma` `PostgreSQL` `Redis` `Docker`
 
-TypeScript • React • Node.js • Systems Design
+### [Nome Terra](https://github.com/kingdevil731/nome-terra-architecture)
+Realtime multiplayer word game. Socket.IO with the Redis adapter for multi-instance fanout, room state in Redis behind a repository interface with TTL-based expiry, typed socket contracts shared between client and server so a renamed event is a compile error.
 
----
+Production refuses to fall back to in-memory state — it throws at boot instead, because a server that silently works under one instance and loses rooms under two is the expensive kind of bug.
 
-## Featured Architecture Showcases
+[Live](https://nometerra.kingdevil731.dev) · `TypeScript` `Socket.IO` `Redis` `Node.js` `React`
 
-Public architecture-focused repositories documenting engineering decisions,
-distributed workflows and product system design.
+### [Inventory & Operations Platform](https://github.com/kingdevil731/inventory-erp-architecture)
+Multi-tenant business system, ~30 backend domain modules across stock, commerce and operations. Stock on hand is derived from an append-only movement ledger rather than stored as a mutable quantity, so any historical balance is reconstructible.
 
-### 🎮 Nome Terra Architecture
-Realtime multiplayer architecture using Socket.IO and event-driven state synchronization.
+Currently being rebuilt. The repo includes a retrospective on why — it was competent software built for the wrong market, and that is the more useful thing to read.
 
-Repository:
-https://github.com/kingdevil731/nome-terra-architecture
+`TypeScript` `Node.js` `Prisma` `PostgreSQL` `React`
 
 ---
 
-### 🎟 Events Platform Architecture
-Offline-first ticketing, replay queues and reconciliation workflows.
+## Stack
 
-Repository:
-https://github.com/kingdevil731/events-platform-architecture
-
----
-
-### 📦 Inventory ERP Architecture
-Multi-tenant ERP architecture, operational workflows and domain modeling.
-
-Repository:
-https://github.com/kingdevil731/inventory-erp-architecture
+**Frontend** React · Next.js · React Native · TypeScript
+**Backend** Node.js · Express · Prisma · PostgreSQL · REST · microservices
+**Systems** Docker · Redis · BullMQ · Socket.IO · Turborepo · pnpm
 
 ---
 
-## Selected Professional Experience
+## Open to
 
-### 🧾 Quipu
+Remote product engineering, senior full-stack and founding-engineer roles. Contract, EOR or direct employment.
 
-Full-stack product engineering across:
-
-- SaaS frontend development
-- React Native mobile applications
-- Node.js microservices
-- Compliance-oriented backend workflows
-- Production reliability and systems ownership
-
----
-
-## Engineering Interests
-
-Particularly interested in:
-
-- Product engineering
-- Distributed workflows
-- Event-driven architecture
-- Realtime interaction systems
-- Operational software design
-
----
-
-## What I Focus On
-
-- Building production-grade software
-- Designing maintainable architectures
-- Full-stack ownership from implementation to production support
-- Improving reliability and operational workflows
-- Shipping practical software with product impact
-
----
-
-## Core Stack
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-
-### Mobile
-- React Native
-
-### Backend
-- Node.js
-- Prisma
-- PostgreSQL
-- REST APIs
-- Microservices
-
-### Systems
-- Docker
-- Redis
-- BullMQ
-- Socket.IO
-
----
-
-## Current Themes I Enjoy Exploring
-
-- Multiplayer synchronization
-- Offline-first reconciliation patterns
-- Domain modeling
-- Product infrastructure
-- Distributed coordination workflows
-
----
-
-## Links
-
-Portfolio  
-https://kingdevil731.dev
-
-LinkedIn  
-https://www.linkedin.com/in/ruben-folhento
-
-GitHub  
-https://github.com/kingdevil731
-
----
-
-Production SaaS • Product Engineering • Distributed Workflows • Full-Stack Ownership
+[Portfolio](https://kingdevil731.dev) · [LinkedIn](https://www.linkedin.com/in/ruben-folhento) · rubendejesusforner@gmail.com
